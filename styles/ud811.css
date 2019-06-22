@@ -276,8 +276,8 @@ body {
             flex-grow: 1;
     text-align: center; }
     .weather-forecast .future .oneday .icon {
-      width: 64px;
-      height: 64px;
+      width: 56px;
+      height: 56px;
       margin-left: auto;
       margin-right: auto; }
     .weather-forecast .future .oneday .temp-high, .weather-forecast .future .oneday .temp-low {
